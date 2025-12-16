@@ -90,6 +90,9 @@ body.assignment-theme #skills {
 body.assignment-theme .navmenu a {
   padding: 16px 18px !important;
   border-radius: 8px;
+  text-transform: uppercase;
+  letter-spacing: 0.6px;
+  font-size: 0.9rem;
 }
 
 body.assignment-theme .navmenu a:hover {
