@@ -135,6 +135,9 @@ body.assignment-theme table.styled-table th {
   background: #3dffb6;
   color: #000;
   padding: 16px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 0.85rem;
 }
 
 body.assignment-theme table.styled-table td {
