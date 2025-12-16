@@ -97,6 +97,8 @@ body.assignment-theme .navmenu a {
 
 body.assignment-theme .navmenu a:hover {
   background: rgba(255, 255, 255, 0.15) !important;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.25);
+  transform: translateY(-2px);
 }
 
 body.assignment-theme .navmenu .active {
