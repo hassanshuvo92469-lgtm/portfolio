@@ -32,6 +32,9 @@ body.assignment-theme p {
   font-size: 1.1rem !important;
   line-height: 1.8 !important;
   letter-spacing: 0.3px !important;
+  max-width: 62ch !important;
+  margin-bottom: 1.2rem !important;
+  color: rgba(255, 255, 255, 0.9) !important;
 }
 
 /* LINKS */
