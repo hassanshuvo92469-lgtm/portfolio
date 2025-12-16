@@ -146,12 +146,17 @@ body.assignment-theme table.styled-table td {
   vertical-align: middle;
 }
 
+body.assignment-theme table.styled-table tr {
+  transition: transform 0.2s ease, background 0.2s ease;
+}
+
 body.assignment-theme table.styled-table tr:nth-child(even) {
   background: rgba(255, 255, 255, 0.05);
 }
 
 body.assignment-theme table.styled-table tr:hover {
   background: rgba(255, 255, 255, 0.12);
+  transform: translateY(-2px);
 }
 
 body.assignment-theme td.num {
