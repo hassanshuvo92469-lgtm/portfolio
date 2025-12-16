@@ -24,6 +24,8 @@ body.assignment-theme h2 {
 body.assignment-theme h3 {
   font-size: 1.6rem !important;
   font-weight: 500 !important;
+  line-height: 1.4 !important;
+  margin-bottom: 0.5rem !important;
 }
 
 body.assignment-theme p {
