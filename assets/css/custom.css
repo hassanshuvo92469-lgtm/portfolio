@@ -113,6 +113,9 @@ body.assignment-theme .progress {
   height: 12px !important;
   border-radius: 12px !important;
   background: rgba(255, 255, 255, 0.12) !important;
+  box-shadow: inset 0 0 12px rgba(0, 0, 0, 0.4);
+  backdrop-filter: blur(4px);
+  transition: background 0.3s ease;
 }
 
 body.assignment-theme .progress-bar {
